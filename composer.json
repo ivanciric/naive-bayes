@@ -1,0 +1,20 @@
+{
+    "name": "ivanciric/naive-bayes",
+    "description": "Naive Bayes",
+    "type": "library",
+    "require": {
+        "illuminate/database": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Ciric",
+            "email": "info@yoshi.tech"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hamato\\NaiveBayes\\": "src/"
+        }
+    }
+}
